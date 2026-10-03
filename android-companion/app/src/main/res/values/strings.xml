@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LifeSchedule</string>
+
+    <string name="w_current">กิจกรรมปัจจุบัน</string>
+    <string name="w_next">กิจกรรมถัดไป</string>
+    <string name="w_clock">นาฬิกา/วันที่</string>
+    <string name="w_today">ตารางวันนี้</string>
+    <string name="w_food">สุ่มอาหาร</string>
+    <string name="w_music">เพลง</string>
+    <string name="w_checklist">ความคืบหน้า Checklist</string>
+    <string name="w_summary">สรุป</string>
+    <string name="w_quick">ทางลัด</string>
+</resources>

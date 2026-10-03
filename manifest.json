@@ -1,0 +1,61 @@
+{
+  "name": "ตารางกิจวัตรประจำสัปดาห์",
+  "short_name": "กิจวัตรสัปดาห์",
+  "description": "ตารางวางแผนชีวิตประจำสัปดาห์ — ดูคลิป เรียนรู้ สร้างสรรค์ พัฒนาตัวเอง",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#c65b5b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "ตารางวันนี้",
+      "short_name": "ตาราง",
+      "url": "./index.html#schedule",
+      "icons": [
+        {
+          "src": "assets/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "สุ่มอาหาร",
+      "short_name": "อาหาร",
+      "url": "./index.html#food",
+      "icons": [
+        {
+          "src": "assets/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "เพลง",
+      "short_name": "เพลง",
+      "url": "./index.html#music",
+      "icons": [
+        {
+          "src": "assets/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "id": "./index.html"
+}
